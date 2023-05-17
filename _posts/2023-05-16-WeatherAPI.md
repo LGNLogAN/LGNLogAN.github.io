@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Python을 활용한 패스워드 설정 프로그램"
+title:  "WeatherAPI를 활용해서 날씨 정보 얻기"
 ---
 
 # OpenWeatherMap API를 이용한 날씨 정보를 얻기
