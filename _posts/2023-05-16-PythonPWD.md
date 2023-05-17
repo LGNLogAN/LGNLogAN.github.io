@@ -3,8 +3,7 @@ layout: single
 title:  "Python을 활용한 패스워드 설정 프로그램"
 ---
 
-# Last modified 2023-05-17  
-
+# 
 # Python 의 예외처리 , Class 문을 활용해서 패스워드 규칙 ( 대문자 포함 , 특수문자 포함 등 )을 적용
 
 ```python  
